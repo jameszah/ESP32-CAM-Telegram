@@ -7,6 +7,6 @@ Bugfix on line 239 of .cpp (line 240 in my version)
 
 Also demo sending a big .jpg two ways - one of which fails
 
-Some other changes - search for jz
+Some other debugging changes - search for jz
 
 Just add wifi name/pass and BOTtoken, then send /photo from your Telegram BOT and look at serial monitor for debug messages, and telegram for one picture
