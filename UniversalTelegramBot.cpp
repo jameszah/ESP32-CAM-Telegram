@@ -235,7 +235,6 @@ String UniversalTelegramBot::sendMultipartFormDataToTelegram(
     client->print(buildCommand(command));
     client->println(F(" HTTP/1.1"));
     Serial.print("*")  ; delay(jzdelay); 
-    
     // Host header
     client->println(F("Host: " TELEGRAM_HOST));       //jz <<<<<<<<<<<<<<<<<<<<< println !!!!!!!! >>>>>>>>>>>>>>>>>>>>
     client->println(F("User-Agent: arduino/1.0"));
