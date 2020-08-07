@@ -25,7 +25,7 @@ ESP32-Cam3.ino takes the commands /qvga (320x240, about 4 kb) and /uxga (1600x12
 ------------------
 
 August 7, 2020
-ESP32-Cam4.ino along with the Telegram-Bot library with the caption folder
+ESP32-Cam4.ino along with the Telegram-Bot library within the caption folder
 - send /caption to have your telegram bot send a photo with caption
 - you must use the exmaple and library from the /caption folder
 
