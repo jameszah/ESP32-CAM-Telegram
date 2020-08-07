@@ -20,7 +20,7 @@ Just add wifi name/pass and BOTtoken, then send /photo from your Telegram BOT an
 
 ESP32-Cam3.ino takes the commands /qvga (320x240, about 4 kb) and /uxga (1600x1200, about 100kb) to send different sized photos 
 - the qvga works on both send techqinues
-- the uxga fails on second send technqiue
+- the uxga fails on second send technqiue -- so use the first technique
 
 ------------------
 
