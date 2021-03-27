@@ -1,6 +1,24 @@
 # ESP32-Cam-Telegram
 Demo of sending a photo from a ESP32-CAM acting as a Telegram BOT
 
+March 26, 2021
+
+Debugging code for Universal-Arduino-Telegram-Bot program
+
+Copy the code from the v5 folder for using esp32 library 1.05 (or 1.06)
+
+Same as the Brain Lough SendPhoto example, but this adds the following commands
+
+-  /start - shows commands
+-  /photo
+-  /qvga - small photo
+-  /uxga - big photo
+-  /caption - send a big photo with a caption
+ 
+----------------
+
+Original intro Summer 2020
+
 1. Shows bugfix with missing println - mod to library and ESP-Cam2.ino
 2. Shows example of sending large and small jpegs - same mod to library and ESP32-Cam3.ino
 3. Shows code and example to send a caption with a picture - more mods to library in /caption folder and ESP32-Cam4.ino
