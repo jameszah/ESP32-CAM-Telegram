@@ -5,6 +5,8 @@ March 26, 2021
 
 Debugging code for Universal-Arduino-Telegram-Bot program
 
+https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/issues/235#issue-842397567
+
 Copy the code from the v5 folder for using esp32 library 1.05 (or 1.06)
 
 Same as the Brain Lough SendPhoto example, but this adds the following commands
